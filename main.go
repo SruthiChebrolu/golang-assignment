@@ -148,3 +148,15 @@ package main
 // 	}
 // 	fmt.Println("scores", scores)
 // }
+//package main
+// import "fmt"
+
+// func main() {
+// 	nums := make([]int, 3, 5)
+// 	fmt.Println(nums)                   // [0 0 0]
+// 	fmt.Println("Length:", len(nums))   // 3
+// 	fmt.Println("Capacity:", cap(nums)) // 5
+// }
+
+//package main
+
